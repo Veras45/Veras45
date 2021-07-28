@@ -1,5 +1,6 @@
 ###   </p> Olá Mundo, Sou o Matheus De Veras :computer: :zap:
  <br />		
+ 
  - :briefcase: Atualmente estou trabalhando como Analista de Infraestrutra. 
 - 👨‍🎓 Bacharel em Ciência da Computação 
 - 💀 Militar da reserva
