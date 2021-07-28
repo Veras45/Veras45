@@ -1,11 +1,15 @@
 ###  <p>   <p> Olá Mundo, Sou o Matheus De Veras :computer: :zap:
  <br />		
  
+  <h4 align="center"> 
+	🚧  Futuro DevOps 🚀 Em construção...  🚧
+</h4>
+ 
  - :briefcase: Atualmente estou trabalhando como Analista de Infraestrutra. 
 - 👨‍🎓 Bacharel em Ciência da Computação 
 - 💀 Militar da reserva
 - 🐧 Linux, Windows, IOS, Androd, Virtualização.
-- :books: Atualmente estudando, Pythn, C, GIT.  
+- :books: Estudando, Python, C, GIT.  
 - ⚡ Estou procurando novos projetos relacionados a DevOps, para finalidade de adquirir conhecimento. 
 - ⚙️ Duvida sobre Infra, vamos conversar e tentar resolver?   
 
