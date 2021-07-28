@@ -1,4 +1,4 @@
-###   </p> Olá Mundo, Sou o Matheus De Veras :computer: :zap:
+###  <p>   <p> Olá Mundo, Sou o Matheus De Veras :computer: :zap:
  <br />		
  
  - :briefcase: Atualmente estou trabalhando como Analista de Infraestrutra. 
@@ -9,7 +9,7 @@
 - ⚡ Estou procurando novos projetos relacionados a DevOps, para finalidade de adquirir conhecimento. 
 - ⚙️ Duvida sobre Infra, vamos conversar e tentar resolver?   
 
-- :triangular_flag_on_post: Conhecimento em: VMware, Arqueserve UDP, Arqueserve Backup, AD, Samba, Jumpcloud, GCP, AWS, Gsuite, CFTV, C#, MYsq, e outras ferramentas, 5 anos de experiência na area de infra/suporte.  
+- :triangular_flag_on_post: Conhecimento em: VMware, Arqueserve UDP, Arqueserve Backup, AD, Samba, Jumpcloud, GCP, AWS, Gsuite, CFTV, C#, MYsql, e outras ferramentas, 5 anos de experiência na area de infra/suporte.  
 <br />
 
 ### Contatos: 
