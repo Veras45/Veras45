@@ -13,8 +13,8 @@
 <br />
 
 ### Contatos: 
-<br />
 [![linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-de-veras-82a8054a/)](https://www.linkedin.com/in/matheus-de-veras-82a8054a/)
+
 <br />
 
 ### Linguagens e Ferramentas: 
