@@ -25,5 +25,5 @@
 
 ### Linguagens e Ferramentas: 
 [![Veras45 GitHub stats](https://github-readme-stats.vercel.app/api?username=Veras45)](https://github.com/Veras45/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veras45&layout=compact)](https://github.com/Veras45/Veras45/edit/main/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veras45&layout=compact)](https://github.com/Veras45?tab=repositories)
 
