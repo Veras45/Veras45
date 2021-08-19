@@ -9,7 +9,7 @@
 - 👨‍🎓 Bacharel em Ciência da Computação 
 - 💀 Militar da reserva
 - 🐧 Linux, Windows, IOS, Androd, Virtualização.
-- :books: Estudando, Python, C, GIT.  
+- :books: Estudando, Python, C, C#, GIT.   
 - ⚡ Estou procurando novos projetos relacionados a DevOps, para finalidade de adquirir conhecimento. 
 - ⚙️ Duvida sobre Infra, vamos conversar e tentar resolver?   
 
