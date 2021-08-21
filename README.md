@@ -24,5 +24,9 @@
 <br />
 
 ### Linguagens e Ferramentas: 
-[![Veras45 GitHub stats](https://github-readme-stats.vercel.app/api?username=Veras45)](https://github.com/Veras45/github-readme-stats)
+<div>
+  <a href="https://github.com/Veras45">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Veras45&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veras45&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
